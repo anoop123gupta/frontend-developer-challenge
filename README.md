@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+## functionality
+you can enter an youtube url in input box and when you click on add button it will check your url. if entered url is valid then it will add in playlist and will start playing
+## you can do things in my app 
+1. add url 
+2. remove url after video end 
+3. remove url from playlist 
